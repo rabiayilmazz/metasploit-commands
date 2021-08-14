@@ -1,5 +1,6 @@
 # metasploit-commands
-Includes Turkish and English metasploit commands
+* Includes Turkish and English metasploit commands
+
 Core Commands
 =============
 
