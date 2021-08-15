@@ -1,6 +1,6 @@
-msf6 exploit(linux/http/f5_bigip_tmui_rce) > show options 
+* msf6 exploit(linux/http/f5_bigip_tmui_rce) > show options 
 
-Module options (exploit/linux/http/f5_bigip_tmui_rce):
+* Module options (exploit/linux/http/f5_bigip_tmui_rce):
 
    Name       Current Setting  Required  Description
    ----       ---------------  --------  -----------
